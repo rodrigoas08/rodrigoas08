@@ -1,4 +1,4 @@
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![svg](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <!--
 **rodrigoas08/rodrigoas08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
